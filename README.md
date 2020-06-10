@@ -5,9 +5,15 @@ Hi, my name is Ahmad Siddiqui and I am a 10th grader at East Brunswick Highschoo
 ![IMG_2145 (1)](https://user-images.githubusercontent.com/66634821/84305783-9aa88b80-ab28-11ea-83e3-4e59cf766802.PNG)
 
 
-### Markdown
+### Social Media
 
-You can use the [editor on GitHub](https://github.com/AMS10/Ahmad-Siddiqui/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I use social media alot. Some of my social media platforms are:
+
+[Instagram](https://www.instagram.com/ahmadtheboss13/) 
+
+[Facebook](https://www.facebook.com/profile.php?id=100050474317280) 
+
+And Snapchat, @ahmadms13
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
