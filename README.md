@@ -19,8 +19,8 @@ And Snapchat, @ahmadms13
 ### Brag Sheet
 
 Three things that I did in High School that I am proud of are:
--I Was part of the school soccer team
--I am the vice president of MSA (Muslim Student Association)
--I volunteered for many different organizations, such as Fastbreak ( A basketball organization), The EBPL (East Brunswick Public Library), and my local Mosque.
+- I Was part of the school soccer team
+- I am the vice president of MSA (Muslim Student Association)
+- I volunteered for many different organizations, such as Fastbreak ( A basketball organization), The EBPL (East Brunswick Public Library), and my local Mosque.
 
 
